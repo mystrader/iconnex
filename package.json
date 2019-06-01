@@ -1,0 +1,19 @@
+{
+  "name": "iconnex-html",
+  "version": "1.0.0",
+  "description": "prototipo-estatico",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mystrader/iconnex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mystrader/iconnex/issues"
+  },
+  "homepage": "https://github.com/mystrader/iconnex#readme"
+}
